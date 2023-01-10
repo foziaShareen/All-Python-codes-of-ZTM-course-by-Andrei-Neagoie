@@ -4,7 +4,7 @@ This repository contains all the codes and notes, which I prepared when I was pu
 
 I have added all these codes (which also contains my notes inside the .py file itself as #comments) because I thought that it might help the community and fellow students to get everything at one place, and it will help them in learning and debugging the code, it will also save immense amount of time and frustration, and later for the revision purposes as well (just like the cheatsheet.pdf given at the very end of the course).
 
-Feel free to fork and add/edit files in here. Also, in case you want some additional help, then you can contact me at saurabhagarwal1089@gmail.com
+Feel free to fork and add/edit files in here. Also, in case you want some additional help, then you can contact me at foziashareen1@gmail.com
 
 You can support me here (This is completely optional. Please do not feel obligated in any way to do so.):
 
